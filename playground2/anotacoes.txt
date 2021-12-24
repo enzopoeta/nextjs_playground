@@ -1,0 +1,22 @@
+next.config.js -> confs basicas do next (ex: variaveis de ambiente)
+
+env:{
+    teste : "teste" // para acessar no next {proccess.env.teste}
+
+}
+
+
+componente head ( faz as vezes do heaf do html nao eh um header de paginas)
+
+componente image -> as imagens consideram o caminho raiz a partir de public
+
+
+rotas
+
+
+- se voce coloca um index.jsx em um folder esse  cara passa a ser a pagina carregada
+
+- os nomes das paginas sao considerados com case sensitive para definicao das rotas da app
+
+- rotas dinamicas para fazer basta colocar um [] em uma das pastas do caminho ( ou arquivos mas ai voce so pode ter um [] por pasta)
+

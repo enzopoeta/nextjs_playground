@@ -1,0 +1,12 @@
+.using_css .red {
+  color: #f30;
+}
+
+.using_css .blue {
+  color: #03a;
+}
+
+.using_css .white {
+  background-color: #666;
+  color: #fff;
+}
